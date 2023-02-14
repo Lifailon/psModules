@@ -1,6 +1,6 @@
 # psModules
 
-### wimg
+## wimg
 Module for downloading image files from the website. \
 Using **Invoke-WebRequest** \
 `Import-Module .\wimg.psm1` and `Get-Help wimg`
@@ -9,7 +9,7 @@ Using **Invoke-WebRequest** \
 
 ![Image alt](https://github.com/Lifailon/psModules/blob/rsa/wimg/Example.jpg)
 
-### rproc
+## rproc
 Remote and local view and stop processes \
 Using Get-Process and Invoke-Command via WinRM \
 `Import-Module .\rproc.psm1` and `Get-Help rproc`
