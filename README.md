@@ -21,7 +21,7 @@ Using **Get-Process** and Invoke-Command via WinRM \
 ## rNetstat
 Remote and local view network tcp connections statistics and his used process \
 Using **Get-NetTCPConnection, ps, nslookup** and Invoke-Command via WinRM \
-`Import-Module .\rproc.psm1` and `Get-Help rproc`
+`Import-Module .\rNetstat.psm1` and `Get-Help rNetstat`
 
 **[Скачать (rNetstat.psm1)](https://github.com/Lifailon/psModules/blob/rsa/rNetstat/rNetstat.psm1)**
 
