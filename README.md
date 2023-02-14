@@ -11,7 +11,7 @@ Using **Invoke-WebRequest** \
 
 ## rproc
 Remote and local view and stop processes \
-Using Get-Process and Invoke-Command via WinRM \
+Using **Get-Process** and **Invoke-Command via WinRM** \
 `Import-Module .\rproc.psm1` and `Get-Help rproc`
 
 **[Скачать (rproc.psm1)](https://github.com/Lifailon/psModules/blob/rsa/rproc/rproc.psm1)**
