@@ -13,7 +13,7 @@ Using **Invoke-WebRequest** \
 Remote and local **hardware inventory via WMI**. \
 `Import-Module .\Get-Invent.psm1` and `Get-Help Get-Invent`
 
-**[Download (wimg.psm1)](https://github.com/Lifailon/psModules/blob/rsa/Get-Invent/Get-Invent.psm1)**
+**[Download (Get-Invent.psm1)](https://github.com/Lifailon/psModules/blob/rsa/Get-Invent/Get-Invent.psm1)**
 
 ![Image alt](https://github.com/Lifailon/psModules/blob/rsa/Get-Invent/Example.jpg)
 
@@ -21,7 +21,7 @@ Remote and local **hardware inventory via WMI**. \
 Remote and local **view and delete software via WMI** \
 `Import-Module .\Get-Soft.psm1` and `Get-Help Get-Soft`
 
-**[Download (wimg.psm1)](https://github.com/Lifailon/psModules/blob/rsa/Get-Soft/Get-Soft.psm1)**
+**[Download (Get-Soft.psm1)](https://github.com/Lifailon/psModules/blob/rsa/Get-Soft/Get-Soft.psm1)**
 
 ![Image alt](https://github.com/Lifailon/psModules/blob/rsa/Get-Soft/Example.jpg)
 
