@@ -52,6 +52,5 @@ Using class .NET **Excel.Application** \
 
 ![Image alt](https://github.com/Lifailon/psModules/blob/rsa/ConvertFrom-XLSX/Screen/ConvertFrom-XLSX.jpg)
 
-Example
-
+Example of creating and saving an object in Excel: \
 **[Download (Services-to-Excel.ps1)](https://github.com/Lifailon/psModules/blob/rsa/ConvertFrom-XLSX/Services-to-Excel.ps1)**
