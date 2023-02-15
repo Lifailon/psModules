@@ -17,6 +17,14 @@ Remote and local hardware **inventory via WMI**. \
 
 ![Image alt](https://github.com/Lifailon/psModules/blob/rsa/Get-Invent/Example.jpg)
 
+## Get-Invent
+Remote and local **view and delete software via WMI** \
+`Import-Module .\Get-Soft.psm1` and `Get-Help Get-Soft`
+
+**[Скачать (wimg.psm1)](https://github.com/Lifailon/psModules/blob/rsa/Get-Soft/Get-Soft.psm1)**
+
+![Image alt](https://github.com/Lifailon/psModules/blob/rsa/Get-Soft/Example.jpg)
+
 ## rNetstat
 Remote and local view network tcp connections statistics and his used process \
 Using **Get-NetTCPConnection, ps, nslookup** and Invoke-Command via WinRM \
