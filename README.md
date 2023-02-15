@@ -34,11 +34,11 @@ Using **Get-NetTCPConnection, ps, nslookup** and Invoke-Command via WinRM \
 
 ![Image alt](https://github.com/Lifailon/psModules/blob/rsa/rNetstat/Example.jpg)
 
-## rproc
+## rProc
 Remote and local view and stop processes \
 Using **Get-Process** and Invoke-Command via WinRM \
-`Import-Module .\rproc.psm1` and `Get-Help rproc`
+`Import-Module .\rProc.psm1` and `Get-Help rProc`
 
-**[Скачать (rproc.psm1)](https://github.com/Lifailon/psModules/blob/rsa/rproc/rproc.psm1)**
+**[Скачать (rProc.psm1)](https://github.com/Lifailon/psModules/blob/rsa/rProc/rProc.psm1)**
 
-![Image alt](https://github.com/Lifailon/psModules/blob/rsa/rproc/Example.jpg)
+![Image alt](https://github.com/Lifailon/psModules/blob/rsa/rProc/Example.jpg)
