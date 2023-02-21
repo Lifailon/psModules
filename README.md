@@ -18,12 +18,15 @@ Using class .NET **Excel.Application** \
 
 ![Image alt](https://github.com/Lifailon/psModules/blob/rsa/ConvertFrom-XLSX/Screen/ConvertFrom-XLSX.jpg)
 
-### Example of creating and saving an object in Excel.
-> Commented out book reading
+### Example of creating and saving an object in Excel:
 
 **[Download (Services-to-Excel.ps1)](https://github.com/Lifailon/psModules/blob/rsa/ConvertFrom-XLSX/Services-to-Excel.ps1)**
 
 ![Image alt](https://github.com/Lifailon/psModules/blob/rsa/ConvertFrom-XLSX/Screen/Services-to-Excel.jpg)
+
+### Read excel:
+
+![Image alt](https://github.com/Lifailon/psModules/blob/rsa/ConvertFrom-XLSX/Screen/Read-Excel.jpg)
 
 ## rDNS
 Module for remote view zones DNS, as well view and remove records \
