@@ -9,6 +9,40 @@ Using **Invoke-WebRequest** \
 
 ![Image alt](https://github.com/Lifailon/psModules/blob/rsa/wget-img/Example.jpg)
 
+## ConvertFrom-XLSX
+Module for convert csv to xmlx \
+Using class .NET **Excel.Application** \
+`Import-Module .\ConvertFrom-XLSX.psm1` and `Get-Help ConvertFrom-XLSX`
+
+**[Download (ConvertFrom-XLSX.psm1)](https://github.com/Lifailon/psModules/blob/rsa/ConvertFrom-XLSX/ConvertFrom-XLSX.psm1)**
+
+![Image alt](https://github.com/Lifailon/psModules/blob/rsa/ConvertFrom-XLSX/Screen/ConvertFrom-XLSX.jpg)
+
+**Example of creating and saving an object in Excel:** \
+**[Download (Services-to-Excel.ps1)](https://github.com/Lifailon/psModules/blob/rsa/ConvertFrom-XLSX/Services-to-Excel.ps1)**
+
+## rDNS
+Module for remote view zones DNS, as well view and remove records \
+Using **module DNSServer** via Invoke-Command (module installation is not required) \
+`Import-Module .\rdns.psm1` and `Get-Help rdns`
+
+**[Download (rDNS.psm1)](https://github.com/Lifailon/psModules/blob/rsa/rDNS/rDNS.psm1)**
+
+![Image alt](https://github.com/Lifailon/psModules/blob/rsa/rDNS/Example.jpg)
+
+## Broker-Connect
+**Add-on for module RemoteDesktop** \
+Features: \
+Remote shadow connection to user via rdp \
+Disconnect user \
+Collection list and software \
+Host list and roles \
+`Import-Module .\Broker-Connect.psm1` and `Get-Help Broker-Connect`
+
+**[Download (Broker-Connect.psm1)](https://github.com/Lifailon/psModules/blob/rsa/Broker-Connect/Broker-Connect.psm1)**
+
+![Image alt](https://github.com/Lifailon/psModules/blob/rsa/Broker-Connect/Example.jpg)
+
 ## Get-Invent
 Remote and local **hardware inventory via WMI**. \
 `Import-Module .\Get-Invent.psm1` and `Get-Help Get-Invent`
@@ -42,15 +76,3 @@ Using **Get-Process** and Invoke-Command via WinRM \
 **[Download (rProc.psm1)](https://github.com/Lifailon/psModules/blob/rsa/rProc/rProc.psm1)**
 
 ![Image alt](https://github.com/Lifailon/psModules/blob/rsa/rProc/Example.jpg)
-
-## ConvertFrom-XLSX
-Module for convert csv to xmlx \
-Using class .NET **Excel.Application** \
-`Import-Module .\ConvertFrom-XLSX.psm1` and `Get-Help ConvertFrom-XLSX`
-
-**[Download (ConvertFrom-XLSX.psm1)](https://github.com/Lifailon/psModules/blob/rsa/ConvertFrom-XLSX/ConvertFrom-XLSX.psm1)**
-
-![Image alt](https://github.com/Lifailon/psModules/blob/rsa/ConvertFrom-XLSX/Screen/ConvertFrom-XLSX.jpg)
-
-**Example of creating and saving an object in Excel:** \
-**[Download (Services-to-Excel.ps1)](https://github.com/Lifailon/psModules/blob/rsa/ConvertFrom-XLSX/Services-to-Excel.ps1)**
