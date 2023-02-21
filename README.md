@@ -35,7 +35,7 @@ Using **module DNSServer** via Invoke-Command (module installation is not requir
 
 **Features:**
 * Remote shadow connection to user via rdp
-* Disconnect user**
+* Disconnect user
 * Collection list and software
 * Host list and roles
 
