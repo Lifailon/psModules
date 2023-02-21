@@ -18,7 +18,8 @@ Using class .NET **Excel.Application** \
 
 ![Image alt](https://github.com/Lifailon/psModules/blob/rsa/ConvertFrom-XLSX/Screen/ConvertFrom-XLSX.jpg)
 
-### Example of creating and saving an object in Excel:
+### Example of creating and saving an object in Excel.
+> Commented out book reading
 
 **[Download (Services-to-Excel.ps1)](https://github.com/Lifailon/psModules/blob/rsa/ConvertFrom-XLSX/Services-to-Excel.ps1)**
 
