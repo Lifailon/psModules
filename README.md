@@ -33,10 +33,10 @@ Using **module DNSServer** via Invoke-Command (module installation is not requir
 ## Broker-Connect
 **Add-on for module RemoteDesktop** \
 Features: \
-Remote shadow connection to user via rdp \
-Disconnect user \
-Collection list and software \
-Host list and roles \
+* Remote shadow connection to user via rdp \
+* Disconnect user** \
+* Collection list and software \
+* Host list and roles \
 `Import-Module .\Broker-Connect.psm1` and `Get-Help Broker-Connect`
 
 **[Download (Broker-Connect.psm1)](https://github.com/Lifailon/psModules/blob/rsa/Broker-Connect/Broker-Connect.psm1)**
